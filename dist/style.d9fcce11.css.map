@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SAAS,CACT,qBACJ,CAEA,MACI,iBAAkB,CAClB,KAAK,CACL,MACJ","file":"style.d9fcce11.css","sourceRoot":"..","sourcesContent":["*{\n    margin: 0;\n    padding:0;\n    box-sizing:border-box;\n}\n\n#demo{\n    position: absolute;\n    top:0;\n    left:0;\n}"]}
